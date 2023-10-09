@@ -1,4 +1,4 @@
-How to Use:\
+# **How to Use:\ 
 Need to import glob for opening images in folder.\
 To convert JPG's to GIF we'll use Pillow so we are using from PIL import Image command from pillow library.\
 Be aware that your images are all same size and all are JPG's.\
