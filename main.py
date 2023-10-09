@@ -16,4 +16,5 @@ def make_gif(frame_folder):
 
 
 if __name__ == "__main__":
-    make_gif("your/jpg/folder")
+    make_gif("C:/Users/orcun/Desktop/Yeni klasör")
+    input("press anything to quit.")
